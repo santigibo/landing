@@ -1,0 +1,31 @@
+.banner {
+  background-image: url('../../images/background.png');
+  padding: 200px 0;
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title {
+  margin: 0 auto;
+  width: 900px;
+  color: white;
+  text-align: left;
+}
+
+.title h3 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  color: rgba(250,250,250,0.7);
+  /*margin-bottom: 40px;*/
+}
+
+.title a {
+  background-color: #73D58B;
+  padding: 16px 32px;
+  border-radius: 32px;
+  color: rgba(250,250,250,0.9);
+  display: inline-block;
+}

@@ -1,0 +1,13 @@
+.cards {
+  margin: 0 auto;
+  margin-bottom: 32px;
+  width: 900px;
+  text-align: center;
+  display: flex;
+  padding: 0px 32px;
+  justify-content: space-between;
+}
+
+.section {
+  text-align: center;
+}

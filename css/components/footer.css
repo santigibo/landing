@@ -1,0 +1,26 @@
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  color: rgba(250,250,250,0.5);
+  padding: 42px;
+}
+
+
+.social-icons ul {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  list-style: none;
+  padding: 0;
+}
+
+.social-icons ul li {
+  margin: 6px;
+  font-size: 32px;
+  color: #73D58B;
+}
+
+.footer p strong {
+  color: red;
